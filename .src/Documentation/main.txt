@@ -1,0 +1,5 @@
+#Name: Archangel
+#Date: xx/xx/xx @00:00 EST
+#File Name: filenamehere.py
+#Directory: .src/foldernamehere/filenamehere.py
+#Snapshot Ver. v1.00
