@@ -9,3 +9,10 @@
 ## Notices:
 - Respect Copyright Notice.
 - ``I waive all rights to liability in any scenario`` OR ``if you run a malicious program that is added to this repository.``
+
+## Credits:
+- Archangel
+- 
+  Discord: @archangelthegod (AxxlJGR#7908)
+
+  Links: [My Carrd](https://archangelthegod.carrd.co)
