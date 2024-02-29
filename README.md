@@ -1,5 +1,5 @@
 # Computer Science Repo V2
-### Obtain the sourcecode for all the assignments in the Canadian Course: ICS3C or ICS2O.
+### Obtain the sourcecode for all the assignments in the Canadian Course: (Parent Course: ICS3O) ICS3C or ICS2O.
 
 ## Details:
 ### *Sourcecode is updated weekly on Fridays at 14:30 EST (19:30 UTC)*
