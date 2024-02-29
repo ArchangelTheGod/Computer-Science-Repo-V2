@@ -2,6 +2,7 @@
 ### Obtain the sourcecode for all the assignments in the Canadian Course: ICS3C or ICS2O.
 
 ## Details:
+### *Sourcecode is updated weekly on Fridays at 14:30 EST (19:30 UTC)*
 - Author: Archangel
 - Course: **ICS3C OR ICS3U**
 - Units included: ``1.00 to 2.00`` as of ``27/2/24``
