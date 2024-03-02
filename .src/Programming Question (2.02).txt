@@ -1,0 +1,40 @@
+1. A variable is a definable function that can 
+have data stored to it, making it able to be saved 
+to the RAM.
+
+2. B and E are illegal because B contains a number
+and E contains a special character that isn't 
+an alphanumeric character.
+
+3. No they aren't the same because the characters
+are case sensitive, making them 2 different 
+variables, indispensible from one another.
+
+4. In this scenario, this wouldn't be legal because,
+"amount" is not already predefined with a value.
+
+For example, you could say "amount = 4". Later,
+you could redefine the variable with "72 = amount",
+making the statement legal.
+
+
+5. This would print "val" because you defined a string
+instead of sending the predefined variable.
+
+
+6.
+a) is an integer
+b) is a float
+c) is a float/integer
+d) is an integer
+e) is a string
+
+7. Nothing will print because you can't have 2
+variables of the same name/alias. However, this statement is only true for JavaScript. On Python however, you can have the variable redefined
+simultaneously in order of the definition.
+
+Example:
+number = "one"
+number = "two"
+number = "three"
+print(number)

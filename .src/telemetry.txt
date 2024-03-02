@@ -1,0 +1,5 @@
+<== New Entry ==>
+-Name: Blair
+-Age: -99999999999
+-Address: 0 Bikini Bottom
+
