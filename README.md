@@ -5,7 +5,7 @@
 ### *Sourcecode is updated weekly on Fridays at 14:30 EST (19:30 UTC)*
 - Author: Archangel
 - Course: **ICS3C OR ICS3U** _ICS2O (For Grade 10s)_
-- Units included: ``1.00 to 2.00`` as of ``27/2/24``
+- Units included: ``1.00 to 2.00`` as of ``01/03/24``
 
 ## Notices:
 - Respect Copyright Notice.
